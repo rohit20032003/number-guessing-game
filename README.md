@@ -23,3 +23,8 @@ A simple interactive game where the user guesses a number randomly chosen by the
 
 
 ![image](https://github.com/user-attachments/assets/f38f440a-e87e-4c4e-84b5-4a42b99ba6b7)
+
+
+**ppt**
+
+https://docs.google.com/presentation/d/18UueG9DVkZ6TQwIqtDB_Jbw3eshFFJfs/edit?usp=sharing&ouid=104273643204398515280&rtpof=true&sd=true
