@@ -20,4 +20,6 @@ A simple interactive game where the user guesses a number randomly chosen by the
    cd number-guessing-game
    
 **output**
+
+
 ![image](https://github.com/user-attachments/assets/f38f440a-e87e-4c4e-84b5-4a42b99ba6b7)
